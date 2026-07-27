@@ -15,6 +15,7 @@ Next.js, Supabase, and the Claude API.
    can never be oversold, even under concurrent payments.
 6. An AI Eligibility Explainer lets students ask "why wasn't I offered a
    seat?" and get an answer grounded in their real data and the actual rules.
+   7. Screenshots of working system file are also available in files.
 
 ## Setup
 
@@ -47,3 +48,4 @@ then deploy.
 - `app/api/test` - serves test questions, scores submissions
 - `app/api/pay` - triggers the atomic seat-locking database function
 - `app/api/explain` - the AI Eligibility Explainer
+  
